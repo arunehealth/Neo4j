@@ -1,0 +1,538 @@
+﻿patient,muscle,pain
+Maxa,Masseter,0
+Draxb,Lat.Pterygoid,3
+Sama,Med Pterygoid,4
+Tama,Temporalis,5
+Mikeu,Masseter,6
+Tikea,Lat.Pterygoid,8
+Nikea,Med Pterygoid,9
+Leog,Temporalis,10
+Deoa,Masseter,1
+Cleopr,Lat.Pterygoid,3
+Toma,Med Pterygoid,4
+Romr,Temporalis,5
+Vomse,Suprahyoid,8
+Draxu,Trapezius,0
+Samx,Masseter,3
+Tamg,Lat.Pterygoid,4
+Mikeu,Med Pterygoid,5
+Tikev,Temporalis,6
+Nikea,Masseter,8
+Leob,Lat.Pterygoid,9
+Deoa,Med Pterygoid,10
+Cleopa,Temporalis,1
+Tomu,Masseter,3
+Roma,Lat.Pterygoid,4
+Voma,Med Pterygoid,5
+Draxg,Temporalis,8
+Sama,Suprahyoid,0
+Tamr,Trapezius,3
+Mikea,Med Pterygoid,4
+Tiker,Temporalis,5
+Nikes,Masseter,6
+Leou,Lat.Pterygoid,8
+Deox,Med Pterygoid,9
+Cleopg,Temporalis,10
+Tomu,Suprahyoid,1
+Romv,Trapezius,3
+Voma,Masseter,4
+Draxu,Lat.Pterygoid,5
+Leoa,Med Pterygoid,8
+Deoa,Temporalis,0
+Cleopg,Masseter,3
+Toma,Masseter,4
+Romr,Lat.Pterygoid,5
+Voma,Med Pterygoid,6
+Draxr,Temporalis,8
+Sams,Masseter,9
+Tamu,Lat.Pterygoid,10
+Mikex,Med Pterygoid,1
+Tikeg,Temporalis,3
+Nikeu,Masseter,4
+Leov,Lat.Pterygoid,5
+Deoa,Med Pterygoid,8
+Cleopa,Med Pterygoid,0
+Tomg,Temporalis,3
+Roma,Masseter,4
+Vomr,Lat.Pterygoid,5
+Draxa,Med Pterygoid,6
+Leor,Temporalis,8
+Deos,Suprahyoid,9
+Cleopu,Trapezius,10
+Tomx,Med Pterygoid,1
+Romg,Temporalis,3
+Vomu,Masseter,4
+Draxv,Lat.Pterygoid,5
+Sama,Med Pterygoid,8
+Tamr,Temporalis,0
+Tomus,Suprahyoid,3
+Romau,Trapezius,4
+Vomax,Masseter,5
+Draxgg,Lat.Pterygoid,6
+Samau,Med Pterygoid,8
+Tamrv,Temporalis,9
+Mikeaa,Masseter,10
+Tikera,Masseter,1
+Nikesg,Lat.Pterygoid,3
+Leoua,Med Pterygoid,4
+Deoxr,Temporalis,5
+Cleopga,Masseter,8
+Tomur,Lat.Pterygoid,0
+Romvs,Med Pterygoid,3
+Vomau,Temporalis,4
+Draxux,Masseter,5
+Leoag,Lat.Pterygoid,6
+Deoau,Med Pterygoid,8
+Cleopgv,Temporalis,9
+Tomaa,Masseter,10
+Romrb,Lat.Pterygoid,1
+Vomaa,Med Pterygoid,3
+Draxra,Temporalis,4
+Samsu,Suprahyoid,5
+Tamua,Trapezius,8
+Mikexa,Masseter,0
+Tikegg,Lat.Pterygoid,3
+Nikeua,Med Pterygoid,4
+Leovr,Temporalis,5
+Deoa,Masseter,6
+Cleopr,Lat.Pterygoid,8
+Toms,Med Pterygoid,9
+Romu,Temporalis,10
+Maxax,Masseter,1
+Draxbg,Lat.Pterygoid,3
+Samau,Med Pterygoid,4
+Tamav,Temporalis,5
+Mikeua,Suprahyoid,8
+Tikeab,Trapezius,0
+Nikeaa,Med Pterygoid,3
+Leoga,Temporalis,4
+Deoau,Masseter,5
+Cleopra,Lat.Pterygoid,6
+Tomaa,Med Pterygoid,8
+Romrg,Temporalis,9
+Vomsa,Suprahyoid,10
+Draxur,Trapezius,1
+Samxa,Masseter,3
+Tamgr,Lat.Pterygoid,4
+Mikeus,Med Pterygoid,5
+Tikevu,Temporalis,8
+Nikeax,Masseter,0
+Leobg,Masseter,3
+Deoau,Lat.Pterygoid,4
+Cleopav,Med Pterygoid,5
+Tomua,Temporalis,6
+Romau,Masseter,8
+Vomaa,Lat.Pterygoid,9
+Draxga,Med Pterygoid,10
+Samag,Temporalis,1
+Tamra,Masseter,3
+Mikear,Lat.Pterygoid,4
+Tikera,Med Pterygoid,5
+Nikesr,Med Pterygoid,8
+Leous,Temporalis,0
+Deoxu,Masseter,3
+Cleopgx,Lat.Pterygoid,4
+Tomug,Med Pterygoid,5
+Romvu,Temporalis,6
+Vomav,Suprahyoid,8
+Draxua,Trapezius,9
+Leoaa,Med Pterygoid,10
+Deoag,Temporalis,1
+Cleopga,Masseter,3
+Tomar,Lat.Pterygoid,4
+Romra,Med Pterygoid,5
+Vomar,Temporalis,8
+Draxrs,Suprahyoid,0
+Samsu,Trapezius,3
+Tamux,Masseter,4
+Mikexg,Lat.Pterygoid,5
+Tikegu,Med Pterygoid,6
+Nikeuv,Temporalis,8
+Leova,Masseter,9
+Deoar,Masseter,10
+Cleopas,Lat.Pterygoid,1
+Tomgu,Med Pterygoid,3
+Romax,Temporalis,4
+Vomrg,Lat.Pterygoid,5
+Draxau,Med Pterygoid,8
+Leorv,Temporalis,0
+Deosa,Suprahyoid,3
+Cleopua,Trapezius,4
+Tomxg,Med Pterygoid,5
+Romga,Temporalis,6
+Vomur,Masseter,8
+Draxva,Lat.Pterygoid,9
+Samar,Med Pterygoid,10
+Tamrs,Temporalis,1
+Tomusu,Suprahyoid,3
+Romaux,Trapezius,4
+Vomaxg,Masseter,5
+Draxggu,Lat.Pterygoid,8
+Samauv,Med Pterygoid,0
+Tamrva,Temporalis,3
+Mikeaab,Masseter,4
+Tikeraa,Masseter,5
+Nikesga,Lat.Pterygoid,6
+Leouau,Med Pterygoid,8
+Deoxra,Temporalis,9
+Cleopgaa,Masseter,10
+Tomurg,Lat.Pterygoid,1
+Romvsa,Med Pterygoid,3
+Vomaur,Temporalis,4
+Draxuxa,Masseter,5
+Leoagr,Lat.Pterygoid,8
+Deoaus,Med Pterygoid,0
+Cleopgvu,Temporalis,3
+Tomaax,Masseter,4
+Romrbg,Lat.Pterygoid,5
+Vomaau,Med Pterygoid,6
+Draxrav,Temporalis,8
+Samsua,Suprahyoid,9
+Tamuab,Trapezius,10
+Mikexaa,Masseter,1
+Tikegga,Lat.Pterygoid,3
+Nikeuau,Med Pterygoid,4
+Leovra,Temporalis,5
+Deoaa,Masseter,8
+Cleoprg,Lat.Pterygoid,0
+Tomsa,Med Pterygoid,3
+Romur,Temporalis,4
+Tikeaa,Masseter,5
+Nikear,Lat.Pterygoid,6
+Leogs,Med Pterygoid,8
+Deoau,Temporalis,9
+Cleoprx,Suprahyoid,10
+Tomag,Trapezius,1
+Romru,Med Pterygoid,3
+Vomsv,Temporalis,4
+Draxua,Masseter,5
+Tikeau,Lat.Pterygoid,8
+Nikeaa,Med Pterygoid,0
+Leoga,Temporalis,3
+Deoag,Suprahyoid,4
+Cleopra,Trapezius,5
+Tomar,Masseter,6
+Romra,Lat.Pterygoid,8
+Vomsr,Med Pterygoid,9
+Draxus,Temporalis,10
+Samxu,Masseter,1
+Tamgx,Masseter,3
+Mikeug,Lat.Pterygoid,4
+Tikevu,Med Pterygoid,5
+Nikeav,Temporalis,8
+Leoba,Masseter,0
+Deoaa,Lat.Pterygoid,3
+Cleopag,Med Pterygoid,4
+Tomua,Temporalis,5
+Romar,Masseter,6
+Vomaa,Lat.Pterygoid,8
+Draxgr,Med Pterygoid,9
+Samas,Med Pterygoid,10
+Tamru,Temporalis,1
+Mikeax,Masseter,3
+Tikerg,Lat.Pterygoid,4
+Nikesu,Med Pterygoid,5
+Leouv,Temporalis,8
+Deoxa,Suprahyoid,0
+Cleopgr,Trapezius,3
+Tomus,Med Pterygoid,4
+Romvu,Temporalis,5
+Vomax,Masseter,6
+Draxug,Lat.Pterygoid,8
+Leoau,Med Pterygoid,9
+Deoav,Temporalis,10
+Cleopga,Suprahyoid,1
+Tomaa,Trapezius,3
+Romrg,Masseter,4
+Vomaa,Lat.Pterygoid,5
+Draxrr,Med Pterygoid,8
+Samsa,Temporalis,0
+Tamur,Masseter,3
+Mikexs,Masseter,4
+Tikegu,Lat.Pterygoid,5
+Nikeux,Med Pterygoid,6
+Leovg,Temporalis,8
+Deoau,Masseter,9
+Cleopav,Lat.Pterygoid,10
+Tomga,Med Pterygoid,1
+Romab,Temporalis,3
+Vomra,Masseter,4
+Draxaa,Lat.Pterygoid,5
+Leoru,Med Pterygoid,8
+Deosa,Temporalis,0
+Cleopua,Masseter,3
+Tomxg,Lat.Pterygoid,4
+Romga,Med Pterygoid,5
+Vomua,Temporalis,6
+Draxvb,Suprahyoid,8
+Samaa,Trapezius,9
+Tamra,Masseter,10
+Tomusu,Lat.Pterygoid,1
+Romaua,Med Pterygoid,3
+Vomaxa,Temporalis,4
+Draxggg,Masseter,5
+Samaua,Lat.Pterygoid,8
+Tamrva,Med Pterygoid,0
+Mikeaab,Temporalis,3
+Tikeraa,Masseter,4
+Nikesga,Lat.Pterygoid,5
+Leouau,Med Pterygoid,6
+Deoxra,Temporalis,8
+Cleopgaa,Suprahyoid,9
+Tomurg,Trapezius,10
+Romvsa,Med Pterygoid,1
+Vomaur,Temporalis,3
+Draxuxa,Masseter,4
+Leoagr,Lat.Pterygoid,5
+Deoaus,Med Pterygoid,8
+Cleopgvu,Temporalis,0
+Tomaax,Suprahyoid,3
+Romrbg,Trapezius,4
+Vomaau,Masseter,5
+Draxrav,Lat.Pterygoid,6
+Samsua,Med Pterygoid,8
+Tamuab,Temporalis,9
+Mikexaa,Masseter,10
+Tikegga,Masseter,1
+Nikeuau,Lat.Pterygoid,3
+Leovra,Med Pterygoid,4
+Deoaa,Temporalis,5
+Cleoprg,Masseter,8
+Tomsa,Lat.Pterygoid,0
+Romur,Med Pterygoid,3
+Maxaxa,Temporalis,4
+Draxbgr,Masseter,5
+Samaus,Lat.Pterygoid,6
+Tamavu,Med Pterygoid,8
+Mikeuax,Med Pterygoid,9
+Tikeabg,Temporalis,10
+Nikeaau,Masseter,1
+Leogav,Lat.Pterygoid,3
+Deoaua,Med Pterygoid,4
+Cleopraa,Temporalis,5
+Tomaab,Suprahyoid,8
+Romrga,Trapezius,0
+Vomsaa,Med Pterygoid,3
+Draxuru,Temporalis,4
+Samxaa,Masseter,5
+Tamgra,Lat.Pterygoid,6
+Mikeusg,Med Pterygoid,8
+Tikevua,Temporalis,9
+Nikeaxr,Suprahyoid,10
+Leobga,Trapezius,1
+Deoaur,Masseter,3
+Cleopavs,Lat.Pterygoid,4
+Tomuau,Med Pterygoid,5
+Romaux,Temporalis,8
+Vomaag,Masseter,0
+Draxgau,Masseter,3
+Samagv,Lat.Pterygoid,4
+Tamraa,Med Pterygoid,5
+Mikearb,Temporalis,6
+Tikeraa,Masseter,8
+Romrgaa,Lat.Pterygoid,9
+Vomsaau,Med Pterygoid,10
+Draxurua,Temporalis,1
+Samxaaa,Masseter,3
+Tamgrag,Lat.Pterygoid,4
+Mikeusga,Med Pterygoid,5
+Tikevuar,Temporalis,8
+Nikeaxra,Masseter,0
+Leobgar,Lat.Pterygoid,3
+Deoaurs,Med Pterygoid,4
+Cleopavsu,Temporalis,5
+Tomuaux,Suprahyoid,6
+Romauxg,Trapezius,8
+Vomaagu,Masseter,9
+Draxgauv,Lat.Pterygoid,10
+Samagva,Med Pterygoid,1
+Tamraau,Temporalis,3
+Mikearba,Masseter,4
+Tikeraaa,Lat.Pterygoid,5
+Samxaaag,Med Pterygoid,8
+Tamgraga,Temporalis,0
+Mikeusgar,Masseter,3
+Tikevuara,Lat.Pterygoid,4
+Nikeaxrar,Med Pterygoid,5
+Leobgars,Temporalis,6
+Deoaursu,Suprahyoid,8
+Cleopavsux,Trapezius,9
+Tomuauxg,Med Pterygoid,10
+Romauxgu,Temporalis,1
+Vomaaguv,Masseter,3
+Draxgauva,Lat.Pterygoid,4
+Samagvaa,Med Pterygoid,5
+Tamraaug,Temporalis,8
+Mikearbaa,Suprahyoid,0
+Tikeraaar,Trapezius,3
+Samxaaa,Masseter,4
+Tamgraa,Lat.Pterygoid,5
+Mikeusgb,Med Pterygoid,6
+Tikevuaa,Temporalis,8
+Nikeaxra,Masseter,9
+Leobgau,Masseter,10
+Deoaura,Lat.Pterygoid,1
+Cleopavsa,Med Pterygoid,3
+Tomuaug,Temporalis,4
+Romauxa,Masseter,5
+Vomaagr,Lat.Pterygoid,8
+Draxgaua,Med Pterygoid,0
+Samagvr,Temporalis,3
+Tamraas,Masseter,4
+Mikearbu,Lat.Pterygoid,5
+Tikeraax,Med Pterygoid,6
+Samxaaag,Med Pterygoid,8
+Tamgragu,Temporalis,9
+Mikeusgav,Masseter,10
+Tikevuara,Lat.Pterygoid,1
+Nikeaxrab,Med Pterygoid,3
+Leobgara,Temporalis,4
+Deoaursa,Suprahyoid,5
+Cleopavsuu,Trapezius,8
+Tomuauxa,Med Pterygoid,0
+Romauxga,Temporalis,3
+Samxaaag,Masseter,4
+Tamgraga,Lat.Pterygoid,5
+Mikeusgar,Med Pterygoid,6
+Tikevuara,Temporalis,8
+Nikeaxrar,Suprahyoid,9
+Leobgars,Trapezius,10
+Deoaursu,Masseter,1
+Cleopavsux,Lat.Pterygoid,3
+Tomuauxg,Med Pterygoid,4
+Romauxgu,Temporalis,5
+Vomaaguv,Masseter,8
+Draxgauva,Masseter,0
+Samagvau,Lat.Pterygoid,3
+Tamraaua,Med Pterygoid,4
+Mikearbaa,Temporalis,5
+Tikeraaag,Lat.Pterygoid,6
+Samxaaa,Med Pterygoid,8
+Tamgrar,Temporalis,9
+Mikeusga,Suprahyoid,10
+Tikevuar,Trapezius,1
+Nikeaxrs,Med Pterygoid,3
+Leobgau,Temporalis,4
+Deoaurx,Masseter,5
+Cleopavsg,Lat.Pterygoid,8
+Tomuauu,Med Pterygoid,0
+Romauxv,Temporalis,3
+Vomaaga,Suprahyoid,4
+Samxaaaa,Trapezius,5
+Tamgragg,Masseter,6
+Mikeusgaa,Lat.Pterygoid,8
+Tikevuarr,Med Pterygoid,9
+Nikeaxraa,Temporalis,10
+Leobgarr,Masseter,1
+Deoaurss,Masseter,3
+Cleopavsuu,Lat.Pterygoid,4
+Tomuauxx,Med Pterygoid,5
+Romauxgg,Temporalis,8
+Vomaaguu,Masseter,0
+Draxgauvv,Lat.Pterygoid,3
+Samagvaa,Med Pterygoid,4
+Tamraaur,Temporalis,5
+Mikearbas,Masseter,6
+Tikeraaau,Lat.Pterygoid,8
+Samxaax,Med Pterygoid,9
+Tamgrag,Temporalis,10
+Mikeusgu,Masseter,1
+Tikevuav,Lat.Pterygoid,3
+Nikeaxra,Med Pterygoid,4
+Leobgaa,Temporalis,5
+Deoaurg,Suprahyoid,8
+Cleopavsa,Trapezius,0
+Tomuaur,Masseter,3
+Romauxa,Lat.Pterygoid,4
+Vomaagr,Med Pterygoid,5
+Samxaaas,Temporalis,6
+Tamgragu,Masseter,8
+Mikeusgax,Lat.Pterygoid,9
+Tikevuarg,Med Pterygoid,10
+Nikeaxrau,Temporalis,1
+Leobgarv,Masseter,3
+Deoaursa,Lat.Pterygoid,4
+Cleopavsub,Med Pterygoid,5
+Tomuauxa,Temporalis,8
+Romauxga,Suprahyoid,0
+Vomaaguu,Trapezius,3
+Draxgauva,Med Pterygoid,4
+Samagvaa,Temporalis,5
+Tamraaug,Masseter,6
+Mikearbaa,Lat.Pterygoid,8
+Tikeraaar,Med Pterygoid,9
+Samxaaa,Temporalis,10
+Tamgrar,Suprahyoid,1
+Mikeusgs,Trapezius,3
+Tikevuau,Masseter,4
+Nikeaxrx,Lat.Pterygoid,5
+Leobgag,Med Pterygoid,8
+Deoauru,Temporalis,0
+Cleopavsv,Masseter,3
+Tomuaua,Masseter,4
+Romauxb,Lat.Pterygoid,5
+Vomaaga,Med Pterygoid,6
+Samxaaaa,Temporalis,8
+Tamgragu,Masseter,9
+Mikeusgaa,Lat.Pterygoid,10
+Tikevuara,Med Pterygoid,1
+Nikeaxrag,Temporalis,3
+Leobgara,Masseter,4
+Deoaursr,Lat.Pterygoid,5
+Cleopavsua,Med Pterygoid,8
+Tomuauxr,Med Pterygoid,0
+Romauxgs,Temporalis,3
+Vomaaguu,Masseter,4
+Draxgauvx,Lat.Pterygoid,5
+Samagvag,Med Pterygoid,6
+Tamraauu,Temporalis,8
+Mikearbav,Suprahyoid,9
+Tikeraaaa,Trapezius,10
+Samxaau,Med Pterygoid,1
+Tamgraa,Temporalis,3
+Mikeusga,Masseter,4
+Tikevuag,Lat.Pterygoid,5
+Nikeaxra,Med Pterygoid,8
+Leobgar,Temporalis,0
+Deoaura,Suprahyoid,3
+Cleopavsr,Trapezius,4
+Tomuaus,Masseter,5
+Romauxu,Lat.Pterygoid,6
+Vomaagx,Med Pterygoid,8
+Mikeusgg,Temporalis,9
+Tikevuau,Masseter,10
+Nikeaxrv,Masseter,1
+Leobgaa,Lat.Pterygoid,3
+Deoaura,Med Pterygoid,4
+Cleopavsg,Temporalis,5
+Tomuaua,Lat.Pterygoid,8
+Romauxr,Med Pterygoid,0
+Vomaaga,Temporalis,3
+Nikeaxrar,Masseter,4
+Leobgars,Masseter,5
+Deoaurau,Lat.Pterygoid,6
+Cleopavsrx,Med Pterygoid,8
+Tomuausg,Temporalis,9
+Romauxuu,Lat.Pterygoid,10
+Vomaagxv,Med Pterygoid,1
+Mikeusgga,Temporalis,3
+Tikevuaur,Masseter,4
+Nikeaxrvs,Masseter,5
+Leobgaau,Lat.Pterygoid,8
+Deoaurax,Med Pterygoid,0
+Cleopavsgg,Temporalis,3
+Tomuauaue,Lat.Pterygoid,4
+Romauxrv,Med Pterygoid,5
+Vomaagaae,Temporalis,6
+Tomuauaa,Masseter,8
+Romauxrg,Masseter,9
+Vomaagaa,Lat.Pterygoid,10
+Nikeaxrarr,Med Pterygoid,1
+Leobgarsa,Temporalis,3
+Deoauraur,Lat.Pterygoid,4
+Cleopavsrxs,Med Pterygoid,5
+Tomuausgu,Temporalis,8
+Romauxuux,Masseter,0
+Vomaagxvg,Masseter,3
+Mikeusggau,Lat.Pterygoid,4
+Tikevuaurve,Med Pterygoid,5
